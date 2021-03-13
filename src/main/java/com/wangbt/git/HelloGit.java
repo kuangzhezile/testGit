@@ -6,12 +6,10 @@ public class HelloGit {
 
 		System.out.println("Hello git");
 		System.out.println("222");
-		
-		
-
-		System.out.println("´´½¨·ÖÖ§");
-		System.out.println("Ö÷ÏßÌí¼Ó");
-		System.out.println("·ÇÖ÷¸É·ÖÖ§");
+		System.out.println("åˆ›å»ºåˆ†æ”¯");
+		System.out.println("ä¸»çº¿æ·»åŠ ");
+		System.out.println("éä¸»å¹²åˆ†æ”¯");
+		System.out.println("åœ¨çº¿æ·»åŠ ");
 	}
 
 }
